@@ -1,0 +1,24 @@
+{
+  "name": "ney-log-sentry",
+  "version": "1.0.0",
+  "description": "Sentry transform for ney-log package",
+  "main": "index.js",
+  "homepage": "https://github.com/Neylion/ney-log-sentry",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Neylion/ney-log-sentry"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logging",
+    "sentry",
+    "transform"
+  ],
+  "author": "Fredrik Lindberg",
+  "license": "ISC",
+  "dependencies": {
+    "@sentry/node": "^5.14.2"
+  }
+}
